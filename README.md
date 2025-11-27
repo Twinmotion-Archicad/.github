@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.twinmotion.com/">
+  <a href="https://twinmotion-archicad.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_Twinmotion-blue?style=for-the-badge&logo=unrealengine" alt="Get Twinmotion"/>
   </a>
 </p>
